@@ -1,5 +1,5 @@
 ---
-title: Philosophical Questions   
+title: Philosophical Banter- Philosophical Questions  
 layout: "post"
 published: true
 category: Philosophy
@@ -21,6 +21,4 @@ I have many philosophical questions that are unanswered... perhaps I should make
 
 *What is truth? Is there absolute truth? 
 
-*Is objectivity real? Is subjectivity real? What is the meaning of my own perceptions of myself and others?
-
-*
+*Is objectivity real? Is subjectivity real? What is the meaning of my own perceptions of myself and others
