@@ -1,0 +1,7 @@
+#! /bin/bash
+
+for file in *;do
+  i=1
+  mv "$file" "$i.png"
+  i++;
+done
